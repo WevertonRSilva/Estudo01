@@ -1,9 +1,9 @@
 # Simulador de Orçamento de Viagem - Fundamentos Python
 
-## 📌 Motivo do Projeto
+## Motivo do Projeto
 Este projeto foi desenvolvido com o objetivo prático de centralizar e aplicar os conceitos mais fundamentais da linguagem Python. Através de um cenário real de planejamento financeiro para viagens internacionais, o script demonstra como o interpretador gerencia a entrada de dados do usuário, converte esses dados em tipos manipuláveis, processa regras de negócio e os exibe de forma tratada no terminal.
 
-## 🛠️ Conceitos Core Praticados
+## Conceitos Core Praticados
 
 ### 1. Tipos de Dados
 O script manipula ativamente quatro tipos de dados primitivos essenciais:
@@ -25,9 +25,9 @@ Como a entrada via terminal é puramente textual, o projeto demonstra o uso expl
 
 ---
 
-## 💻 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Certifique-se de ter o Python 3.x instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   https://github.com/WevertonRSilva/Estudo01.git
